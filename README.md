@@ -4,6 +4,7 @@
 
 [Книга онлайн: Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/chapters/intro.html)
 
+[Курс Нейронные сети и компьютерное зрение от Samsung на Степике](https://stepik.org/course/50352/syllabus) + [Презентации к курсу](https://github.com/RomanovMikeV/deep-learning-lectures)
 
 
 ## Machine Learning
@@ -14,7 +15,7 @@
 ## Deep Learning
 
 ### Геометрическая интерпретация работы нейронов
-[Примеры с картинками](http://synset.com/ai/ru/nn/NeuralNet_01_Intro.html)
+[Примеры с картинками](http://synset.com/ai/ru/nn/NeuralNet_01_Intro.html) +
 [Интерактивное демо](http://synset.com/ai/ru/nn/NeuroNet2D.html)
 
 ### XOR
@@ -33,9 +34,11 @@
 
 #### Правило цепочки
 
-#### Функции активации
+#### Функции активации 
 [Сигмоида - интерактивное демо](https://www.desmos.com/calculator/suezuqyfak)
+
 [Сигмоида+следующий нейрон - интерактивное демо](https://www.desmos.com/calculator/vtcgs6wt62)
+
 [Сумма сигмоид как приближение некоторой функции - интерактивное демо](https://www.desmos.com/calculator/foellcf2py)
 
 #### Функции потерь
