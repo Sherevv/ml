@@ -2,8 +2,13 @@
 
 [Шпаргалки по курсам Стенфорда CS 221 (AI), 229 (ML), 230 (DL)](https://alexandrparkhomenko.github.io/stanford/cs-221/reflex-models/index.html)
 
+
+## Machine Learning
+
 ### Метод наименьших квадратов (МНК, The Method of Least Squares)
 [Хорошие картинки](https://inferentialthinking.com/chapters/15/3/Method_of_Least_Squares.html)
+
+## Deep Learning
 
 ### Геометрическая интерпретация работы нейронов
 
