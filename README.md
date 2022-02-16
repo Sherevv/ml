@@ -2,6 +2,9 @@
 
 [Шпаргалки по курсам Стенфорда CS 221 (AI), 229 (ML), 230 (DL)](https://alexandrparkhomenko.github.io/stanford/cs-221/reflex-models/index.html)
 
+[Книга онлайн: Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/chapters/intro.html)
+
+
 
 ## Machine Learning
 
@@ -11,6 +14,8 @@
 ## Deep Learning
 
 ### Геометрическая интерпретация работы нейронов
+[Примеры с картинками](http://synset.com/ai/ru/nn/NeuralNet_01_Intro.html)
+[Интерактивное демо](http://synset.com/ai/ru/nn/NeuroNet2D.html)
 
 ### XOR
 
@@ -18,7 +23,7 @@
 (внимание на график в конце, количество эпох)
 
 
-[Визуализация некоторых задач типа XOR на нейронках](https://playground.tensorflow.org/)
+[Визуализация некоторых задач типа XOR на нейронках - интерактивное демо](https://playground.tensorflow.org/)
 
 ### Обучение сети
 
@@ -29,12 +34,15 @@
 #### Правило цепочки
 
 #### Функции активации
+[Сигмоида - интерактивное демо](https://www.desmos.com/calculator/suezuqyfak)
+[Сигмоида+следующий нейрон - интерактивное демо](https://www.desmos.com/calculator/vtcgs6wt62)
+[Сумма сигмоид как приближение некоторой функции - интерактивное демо](https://www.desmos.com/calculator/foellcf2py)
 
 #### Функции потерь
 
 #### Обратное распространение ошибки (Backpropagation)
 
-[Пример расчета на простой сети](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+[Пример расчета на простой сети с двумя слоями](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 
 #### Переобучение
 
