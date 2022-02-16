@@ -10,3 +10,7 @@
 
 
 [Визуализация некоторых задач типа XOR на нейронках](https://playground.tensorflow.org/)
+
+### Обратное распространение ошибки (Backpropagation)
+
+[Пример расчета на простой сети](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
