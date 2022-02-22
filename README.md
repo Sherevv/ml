@@ -14,6 +14,11 @@
 
 [МНК: вывод решения](http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%BD%D0%B0%D0%B8%D0%BC%D0%B5%D0%BD%D1%8C%D1%88%D0%B8%D1%85_%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BE%D0%B2)
 
+[Пояснение - линал: видео (курсера)](https://www.coursera.org/lecture/algebra-lineynaya/11-1-mietod-naimien-shikh-kvadratov-vviedieniie-QS3jO)
+
+### Метод максимального правдоподобия
+[Видео-объяснение](https://www.youtube.com/watch?v=2iRIqkm1mug)
+
 ## Deep Learning
 
 [Видео объяснение работы нейронных сетей (рус. sub)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
